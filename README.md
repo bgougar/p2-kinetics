@@ -56,6 +56,7 @@ This graph shows a prediction of the number of healthy, infected, recovered, and
 This graph plots the data of infected and dead people in the state of Idaho from day 0 as the first person was infected to most current update of covid-19 statistics. 
 
 ### PlayingRecoveryRate.py and PlayingInfectionRate.py 
+These files in General_Playing run the idaho_infections.csv data, taking k1 as the infection rate and k2 as the recovery rate, and return .txt files stating time until the virus is at maximum population capacity 
 
 ### kinetics-copy.py
 
