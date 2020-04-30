@@ -55,6 +55,8 @@ This graph shows a prediction of the number of healthy, infected, recovered, and
 ### plot-infections.py
 This graph plots the data of infected and dead people in the state of Idaho from day 0 as the first person was infected to most current update of covid-19 statistics. 
 
+### PlayingRecoveryRate.py and PlayingInfectionRate.py 
+
 ### kinetics-copy.py
 
 ### info.txt - SHOULD BE CLEANED UP
